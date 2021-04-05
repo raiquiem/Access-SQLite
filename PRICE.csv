@@ -1,0 +1,5 @@
+PRICE_CODE,PRICE_DESCRIPTION,PRICE_RENTFEE,PRICE_DAILYLATEFEE
+1,Standard,2,1
+2,New Release,3.5,3
+3,Discount,1.5,1
+4,Weekly Special,1,0.5
